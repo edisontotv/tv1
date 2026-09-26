@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,avi cine
+http://45.70.201.81:8000/play/a00z/index.m3u8
+#EXTINF:-1,avi rewinds
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1,antares
+http://190.108.91.206:9050/play/a05x/index.m3u8
+#EXTINF:-1,hbo xtreme
+http://190.108.91.206:9050/play/a03y/index.m3u8
+#EXTINF:-1,hbo family
+http://190.108.91.206:9050/play/a03x/index.m3u8
+#EXTINF:-1,hbo
+http://190.108.91.206:9050/play/a035/index.m3u8
+#EXTINF:-1,hbo2
+http://190.108.91.206:9050/play/a0c5/index.m3u8
+#EXTINF:-1,hbo mundi
+http://190.108.91.206:9050/play/a01h/index.m3u8
+#EXTINF:-1,hbo mundi
+http://190.108.91.206:9050/play/a03k/index.m3u8
+#EXTINF:-1,hbo signature
+http://190.108.91.206:9050/play/a01g/index.m3u8
+#EXTINF:-1,hgtv
+http://190.108.91.206:9050/play/a08b/index.m3u8
+#EXTINF:-1,star channel
+http://190.108.91.206:9050/play/a04j/index.m3u8
+#EXTINF:-1,studio universal
+http://190.108.91.206:9050/play/a0az/index.m3u8
+#EXTINF:-1,universal channel
+http://190.108.91.206:9050/play/a031/index.m3u8
+#EXTINF:-1,3 inprecionnante
+https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+#EXTINF:-1,tv centro2
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1,cine
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1,lareinatv
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+#EXTINF:-1,cine2
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+#EXTINF:-1,cine3
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+#EXTINF:-1,ORBIT TV (1080p)
+https://edge.essastream.com/orbittv/index.m3u8
