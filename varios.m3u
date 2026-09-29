@@ -125,3 +125,111 @@ http://181.78.8.199:8000/play/a06u/index.m3u8
 http://181.78.8.199:8000/play/a0jt/index.m3u8
 #EXTINF:-1,BEIN SPORTS XTRA X .
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1,Codigo TV
+https://edge.essastream.com/codigotv/playlist.m3u8
+#EXTINF:-1,Contivision (720p)
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1,Del Rey TV (1080p)
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1,DeltaTV
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+#EXTINF:-1,El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 ,ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 ,ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1,Entuno TV RD
+https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1,Farovisión RD
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1,Imagen TV RD
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1,Invasiva TV (720p)
+https://tv-omega-nine.vercel.app/hls/live.m3u8
+#EXTINF:-1,Jarabacoa TV RD
+https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
+#EXTINF:-1,Jimani TV RD
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1,Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+#EXTINF:-1,La Caleta TV
+https://edge.essastream.com/lacaletatv/playlist.m3u8
+#EXTINF:-1,La Descarga TV RD
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1,,La Hora TV
+https://edge.enhdtv.com/8206/index.m3u8
+#EXTINF:-1,La Melinkana TV (720p)
+https://v1.tustreaming.cl/melinkana/index.m3u8
+#EXTINF:-1,Latina TV RD
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1,Linieros TV
+https://soportedvb.click:3017/live/linierostvlive.m3u8
+#EXTINF:-1,Manaclar
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1,Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1,Neox TV
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+#EXTINF:-1,Nitida TV
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1,ORBIT TV RD
+https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Primavera 15
+https://mc.servidor.stream:19360/8244/8244.m3u8
+#EXTINF:-1,PTV (Bolivia) (720p)
+https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
+#EXTINF:-1,Punto TV
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
+#EXTINF:-1,unto TV Digital RD
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w1822190565.m3u8
+#EXTINF:-1,Retro Plus 2 (720p)
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1,Retromusica Television (720p)
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1,Telemax
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Vallevision RD
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1,Vegavision RD
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+#EXTINF:-1,THE SIMPSONS
+http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
+#EXTINF:-1,BAYRESTV
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1,Cine Friki (1080p)
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1,Mega Cine TV (1080p)
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1,Popcorn Central (1080p)
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1,urora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1,CINE PREMIUM
+http://181.78.12.119:16123/play/ch49/index.m3u8
+#EXTINF:-1, CINE FAMILIAR 
+http://181.78.12.119:16123/play/ch52/index.m3u8
+#EXTINF:-1 group-title="CINE", NITRO HD
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+#EXTINF:-1 group-title="CINE", FMH MOVIES
+http://38.210.3.64:8090/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="CINE", FMH FAMILY
+http://38.210.3.64:8090/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="CINE", FMH KIDS
+http://38.210.3.64:8090/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="CINE", RUN:TIME
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 group-title="CINE", FREE TV ACCION
+http://38.210.3.64:8090/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="CINE", CVM ESTRENOS
+http://38.137.192.250:8000/play/fe2s
+#EXTINF:-1 group-title="CINE", CVM PELICULAS
+http://38.137.192.250:8000/play/okok
+#EXTINF:-1 group-title="CINE", CVM SERIES
+http://38.137.192.250:8000/play/cvmseries
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13770.ts
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ OP1
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13771.ts
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ OP2
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13772.ts
