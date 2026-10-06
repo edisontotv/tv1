@@ -41,3 +41,67 @@ https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 #EXTINF:-1,ORBIT TV (1080p)
 https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1,AVI
+http://45.172.92.111:8000/play/a039/index.m3u8
+#EXTINF:-1,AVI Rewind
+http://45.172.92.111:8000/play/a03a/index.m3u8
+#EXTINF:-1,AVI CINE
+http://45.70.201.81:8000/play/a00z/index.m3u8
+#EXTINF:-1,Classic
+http://45.172.92.111:8000/play/a032/index.m3u8
+#EXTINF:-1,MultiCanal
+http://45.172.92.111:8000/play/a0co/index.m3u8
+#EXTINF:-1,Studio Universal
+http://45.172.92.111:8000/play/a0bh/index.m3u8
+#EXTINF:-1,Canal 5
+http://45.172.92.111:8000/play/a0n6/index.m3u8
+#EXTINF:-1,FMH Movies
+http://45.172.92.111:8000/play/a038/index.m3u8
+#EXTINF:-1,MX Prime
+http://45.181.120.147:9800/play/076/index.m3u8?hl
+#EXTINF:-1,FMH Family
+http://45.181.120.147:9800/play/080/index.m3u8?hl
+#EXTINF:-1,mi pelicula
+http://45.173.203.73:12000/play/a07l/index.m3u8?hl
+#EXTINF:-1,Yusunitv
+http://38.44.109.41:8003/play/a032/index.m3u8
+#EXTINF:-1,WarZone
+http://45.70.201.81:8000/play/a00v/index.m3u8
+#EXTINF:-1,Clover
+http://45.186.254.75:8000/play/a0ep/index.m3u8
+#EXTINF:-1,Win+
+http://190.217.66.92:8000/play/a0qs/index.m3u8
+#EXTINF:-1,Win
+http://190.217.66.92:8000/play/a0fh/index.m3u8
+#EXTINF:-1,Win1
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1,A&El
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1,RCN
+http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1,CARACOL
+http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1,STUDIO-UNIVERSAL
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1,UNIVERSAL-CHANNEL
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1, Universal Cinema Este
+http://45.167.1.138:8000/play/a06m
+#EXTINF:-1, Universal Premier
+http://45.167.1.138:8000/play/a063
+#EXTINF:-1,Universal Premier Oeste
+http://45.167.1.138:8000/play/a064
+#EXTINF:-1,CINE FAMILIAR HD
+http://138.99.179.64:8000/play/a017/index.m3u8
+#EXTINF:-1,Creo Movie HD
+https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
+#EXTINF:-1,Cine Premium HD
+http://138.99.179.64:8000/play/a019/index.m3u8
+#EXTINF:-1,Mega Cine TV (1080p)
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1,Popcorn Central (1080p)
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1,Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
