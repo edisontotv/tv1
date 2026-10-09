@@ -250,3 +250,5 @@ http://200.114.68.133:8999/play/a0hf/index.m3u8
 http://200.114.68.133:8999/play/a0bs/index.m3u8
 #EXTINF:-1, Win Sport1
 http://181.78.211.244:8005/play/a0am/index.m3u8
+#EXTINF:-1,Paramount+
+http://181.224.200.5:2277/play/a0df/index.m3u8
