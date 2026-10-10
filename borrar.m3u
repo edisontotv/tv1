@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,  ESPN Premium HD MX
+http://181.78.211.244:8005/play/a0b5/index.m3u8
+#EXTINF:-1, ESPN 2 HD MX
+http://190.61.101.11:7050/play/a05c/index.m3u8
+#EXTINF:-1, ESPN 2
+http://181.119.86.1:8000/play/a0e3
+#EXTINF:-1,  ESPN MX
+http://190.61.101.11:7050/play/a09k/index.m3u8
+#EXTINF:-1, ESPN Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8
+#EXTINF:-1,  ESPN 4 MX
+http://myultratv.com:8080/932651041tv/zi6623/517
+#EXTINF:-1,  ESPN La Ligue
+http://myultratv.com:8080/932651041tv/zi6623/501
+#EXTINF:-1, ESPN Serie a
+http://181.78.84.78:8910/play/a02v/index.m3u8?hls
+#EXTINF:-1,  ESPN LAT
+http://myultratv.com:8080/932651041tv/zi6623/522
+#EXTINF:-1, TUDN
+http://186.33.26.18:8000/play/a0r4/index.m3u8
+#EXTINF:-1, La Liga
+http://190.61.101.11:7050/play/a04g/index.m3u8
+#EXTINF:-1, L1 Max Ecuador
+http://191.97.49.82:8001/play/a010/index.m3u8
+#EXTINF:-1, DSports
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1, Win Sports
+http://200.10.30.241:8000/play/a01x/index.m3u8
+#EXTINF:-1, Win Sports HD
+http://myultratv.com:8080/932651041tv/zi6623/363
+#EXTINF:-1, Win Sports+ HD
+http://myultratv.com:8080/932651041tv/zi6623/361
+#EXTINF:-1, Win Sports+ 3
+http://181.78.79.131:8000/play/a0m1
+#EXTINF:-1, DSports +
+http://38.190.100.202:8000/play/a09q/index.m3u8
+#EXTINF:-1, Bein Sports
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1, Vix:La Liga
+http://38.188.186.47:4000/play/a015/index.m3u8
+#EXTINF:-1,SCIFI SYFY
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2835.ts
+#EXTINF:-1, DAZN1 Premier
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/723907.ts
+#EXTINF:-1, DAZN2 Premier
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/723910.ts
+#EXTINF:-1,DAZN3 Premie
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78813.ts
+#EXTINF:-1,Win Sports Plus HD
+http://181.119.86.1:8000/play/a0d4
+#EXTINF:-1, FOX La Ligue
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
+#EXTINF:-1, ESPN Eredivisie
+http://190.61.101.11:7050/play/a05c/index.m3u8?hls
+#EXTINF:-1, ESPN 5
+http://45.166.93.156:9999/play/a0fi/index.m3u8
+#EXTINF:-1, ESPN 6
+http://191.97.49.82:8001/play/a00b/index.m3u8
+#EXTINF:-1, Win 2
+http://181.205.130.194:4000/play/a0f1
+#EXTINF:-1, DSports
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 ,ESPN 2
+https://s2.bufaloweb.com/bufalo4/index.m3u8
+#EXTINF:-1 ,ESPN 3
+https://s2.bufaloweb.com/bufalo5/index.m3u8
+#EXTINF:-1 ,ESPN 4
+https://s2.bufaloweb.com/bufalo6/index.m3u8
+#EXTINF:-1 ,ESPN 5
+https://s2.bufaloweb.com/bufalo7/index.m3u8
+#EXTINF:-1 ,ESPN 6
+https://s2.bufaloweb.com/bufalo8/index.m3u8
+#EXTINF:-1 ,ESPN 7
+https://s2.bufaloweb.com/bufalo12/index.m3u8
+#EXTINF:-1, Win+
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1, Teleamazonas
+http://38.44.109.41:8003/play/a0im/index.m3u8
+#EXTINF:-1, Sky Sports
+http://181.78.106.127:5000/play/ca030/index.m3u8
